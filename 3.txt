@@ -1,0 +1,25 @@
+DOCUMENT 3 — PARTICIPANT IDENTIFIER
+
+The participant identifier for this application is the email address that you will enter in the Google Form.
+
+CANONICAL EMAIL RULE — REVISION 04
+
+Before hashing, transform the email string as follows:
+
+1. Remove whitespace from the beginning and end.
+2. Convert all remaining characters to lowercase.
+3. In the local part (the text before `@`), remove every period (`.`).
+4. In the local part, remove the plus-tag: the `+` character and everything after it up to `@`.
+5. Do not modify the domain or substitute another address.
+
+In compact form:
+
+canonical_email = remove_plus_tag_and_periods(lowercase(trim(email)))
+
+Use the original email address in the Google Form. The canonical form is used only to calculate the digest; the organizers will apply the same normalization before checking it.
+
+WHY THIS MATTERS
+
+A cryptographic hash operates on bytes. Two strings that look similar to a person can produce completely different digests if even one character differs. Normalization makes the procedure repeatable. For example, `Example.Name+tag@Mail.com` canonicalizes to `examplename@mail.com`.
+
+The next step is in `4.txt`. It describes the SHA-256 operation and gives you a browser-based option.

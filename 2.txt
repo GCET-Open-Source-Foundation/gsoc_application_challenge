@@ -1,0 +1,27 @@
+DOCUMENT 2 - PRECEDENCE AND VERSION RULE
+
+This document governs interpretation of every other document in this repository.
+
+PRECEDENCE
+
+Resolve conflicts using this order:
+
+1. Apply the explicit current rule for the exact field or operation being performed.
+2. If conflicting instructions occur within one document or across documents, an explicit higher `REVISION` marker (e.g., an inline errata or addendum block) supersedes lower revision markers.
+3. If specificity is equal across documents, apply the instruction in the document with the higher number.
+4. Use the README and `submission.md` for the overall process and form guidance; they do not override a specific numbered rule.
+This order also applies when two instructions appear in the same document, so the result is deterministic.
+
+VERSION MARKER
+
+The current procedure across numbered files is `REVISION = 05`. The rules in this revision are stated directly in the relevant documents. There are no hidden addenda or comments that change the application requirements.
+
+DEPENDENCY
+
+Document `1.txt` establishes the participant record. Document `3.txt` defines the exact canonical form of the email field. Document `4.txt` defines the digest operation. Document `5.txt` combines those rules into a validation equation. `6.txt` checks the complete application process and form fields.
+
+CHECKPOINT
+
+The word `PLATINUM` in `1.txt` identifies the eligible cohort. It is not a password, code, or answer to submit.
+
+Continue to `3.txt`. Do not calculate a digest until you have read the normalization rule there.
