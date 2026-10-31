@@ -14,7 +14,7 @@ ROUTING CLUE
 
 The next document is not necessarily the next numbered file. Before deciding which instruction wins when documents appear to conflict, find the repository-wide rule in `2.txt`.
 
-For now, note this token: ENTRY = PLATINUM.
+For now, note this token: ENTRY = PLATINUM or GOLD.
 
 Do not put the token in the form. It is only a routing marker. Document `3.txt` explains why the participant identifier must be treated consistently, and `4.txt` explains how to create its machine-checkable representation.
 

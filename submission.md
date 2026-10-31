@@ -4,7 +4,7 @@ You have completed the documentation challenge. Submit your GSoC Training Progra
 
 <https://forms.gle/zMMqGSXtsByHd1MW6>
 
-The GSoC Training Open Source Club expects to select approximately **25 participants** from the Platinum cohort.
+The GSoC Training Open Source Club expects to select approximately **25 participants** from the Platinum and Gold cohorts.
 
 ## Before submitting
 
