@@ -2,7 +2,7 @@ DOCUMENT 6 — FINAL SUBMISSION CHECK
 
 You are ready to submit when all statements below are true:
 
-- I am applying as a Platinum cohort participant.
+- I am applying as a Platinum or Gold cohort participant.
 - I read `1.txt` through `6.txt` and followed their cross-references.
 - I used the email address I intend to enter in the Google Form.
 - I trimmed surrounding whitespace and converted the email to lowercase before hashing.

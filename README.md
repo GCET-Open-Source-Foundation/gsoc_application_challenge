@@ -1,8 +1,8 @@
 # GSoC Training Program - Application Challenge
 
-Welcome, Platinum cohort participant.
+Welcome, Platinum or Gold cohort participant.
 
-The GSoC Training Open Source Club expects to select approximately **25 participants** for the GSoC Training Program. This repository is the application instruction and verification process. It is for eligible participants in the Platinum cohort.
+The GSoC Training Open Source Club expects to select approximately **25 participants** for the GSoC Training Program. This repository is the application instruction and verification process. It is for eligible participants in the Platinum and Gold cohorts.
 
 Read the numbered documents and follow their cross-references before submitting the Google Form linked in [`submission.md`](submission.md). The documents form a documentation-comprehension challenge, so do not rely on filename order alone.
 

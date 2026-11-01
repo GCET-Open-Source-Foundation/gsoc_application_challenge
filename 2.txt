@@ -22,6 +22,6 @@ Document `1.txt` establishes the participant record. Document `3.txt` defines th
 
 CHECKPOINT
 
-The word `PLATINUM` in `1.txt` identifies the eligible cohort. It is not a password, code, or answer to submit.
+The word `PLATINUM` or `GOLD` in `1.txt` identifies the eligible cohort. It is not a password, code, or answer to submit.
 
 Continue to `3.txt`. Do not calculate a digest until you have read the normalization rule there.
