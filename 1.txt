@@ -6,6 +6,6 @@ A. A participant record is identified by the email address they will use in the 
 
 B. The record has a human-readable part and a machine-checkable part.
 C. You must
-ROUTING CLUE
+REVISION
 
 The next do
