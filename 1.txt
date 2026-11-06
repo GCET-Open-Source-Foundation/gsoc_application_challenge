@@ -3,7 +3,8 @@ DOCUMENT 1 - ENTRY GATE
 Welcome to the GSoC Training Program application procedure.
 
 Your task is to produce one participant record that can be checked consistently by the organizers.
-
+ 
+ # New Line
 
 A. A participant record is identified by the email address they will use in the application form.
 B. The record has a human-readable part and a machine-checkable part.
