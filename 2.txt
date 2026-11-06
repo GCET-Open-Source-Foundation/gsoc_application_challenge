@@ -1,4 +1,4 @@
-DOCUMENT 2 - PRECEDENCE AND VERSION RULE
+myname is rohith 
 
 This document governs interpretation of every other document in this repository.
 
