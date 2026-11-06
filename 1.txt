@@ -1,6 +1,5 @@
 DOCUMENT 1 - ENTRY GATE
-
-ello
+wertytyre
 
  Program application procedure.
 
