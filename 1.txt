@@ -1,6 +1,5 @@
 DOCUMENT 1 - ENTRY GATE
-
-Welcome to the GSoC Training Program application procedure.
+ Program application procedure.
 
 Your task is to produce one participant record that can be checked consistently by the organizers.
 
