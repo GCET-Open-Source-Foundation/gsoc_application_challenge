@@ -4,7 +4,7 @@ Welcome to the GSoC Training Program application procedure.
 
 Your task is to produce one participant record that can be checked consistently by the organizers.
  
- # New Line
+ # New Line edited in f2
     the change has done in F2
 A. A participant record is identified by the email address they will use in the application form.
 B. The record has a human-readable part and a machine-checkable part.
