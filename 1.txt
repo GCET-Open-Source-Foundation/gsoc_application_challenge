@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 NEERAJ - ENTRY GATE
+=======
+SLEEP 1 - ENTRY GATE
+>>>>>>> BranchCamp
 
 Welcome to the GSoC Training Program application procedure.
 
