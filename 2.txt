@@ -2,8 +2,6 @@ DOCUMENT 2 - PRECEDENCE AND VERSION RULE
 
 This document governs interpretation of every other document in this repository.
 
-PRECEDENCE
-
 Resolve conflicts using this order:
 
 1. Apply the explicit current rule for the exact field or operation being performed.
