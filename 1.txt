@@ -1,4 +1,4 @@
-DOCUMENT 1 - ENTRY GATE
+DOCUMENT 1 - ENTRY EXAM
 
 Welcome to the GSoC Training Program application procedure.
 
