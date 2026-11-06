@@ -1,4 +1,4 @@
-DOCUMENT 2 - PRECEDENCE AND VERSION RULE
+hhhh
 
 This document governs interpretation of every other document in this repository.
 
