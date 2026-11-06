@@ -1,5 +1,5 @@
 NEERAJ - ENTRY GATE
-SLEEP - ENTRY GATE
+SLEEP 1 - ENTRY GATE
 
 
 Welcome to the GSoC Training Program application procedure.
