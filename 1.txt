@@ -2,14 +2,11 @@ DOCUMENT 1 - ENTRY GATE
 
 Welcome to the GSoC Training Program application procedure.
 
-Your task is to produce one participant record that can be checked consistently by the organizers.
-
-Begin with the following principles:
-
+Your task is to produce one participant record that can be checked consistently by the organizers
+hiii
 A. A participant record is identified by the email address they will use in the application form.
 B. The record has a human-readable part and a machine-checkable part.
-C. You must read the rules that define both parts before submitting anything.
-
+C. You must read the rules that define both parts before submitting anythi
 ROUTING CLUE
 
 The next document is not necessarily the next numbered file. Before deciding which instruction wins when documents appear to conflict, find the repository-wide rule in `2.txt`.

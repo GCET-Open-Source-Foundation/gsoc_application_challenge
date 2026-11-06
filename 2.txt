@@ -1,8 +1,6 @@
-DOCUMENT 2 - PRECEDENCE AND VERSION RULE
+myname is rohith 
 
 This document governs interpretation of every other document in this repository.
-
-PRECEDENCE
 
 Resolve conflicts using this order:
 
@@ -10,9 +8,7 @@ Resolve conflicts using this order:
 2. If conflicting instructions occur within one document or across documents, an explicit higher `REVISION` marker (e.g., an inline errata or addendum block) supersedes lower revision markers.
 3. If specificity is equal across documents, apply the instruction in the document with the higher number.
 4. Use the README and `submission.md` for the overall process and form guidance; they do not override a specific numbered rule.
-This order also applies when two instructions appear in the same document, so the result is deterministic.
-
-VERSION MARKER
+This order also applies when two instructions appear in the same document, so the result is determinis
 
 The current procedure across numbered files is `REVISION = 05`. The rules in this revision are stated directly in the relevant documents. There are no hidden addenda or comments that change the application requirements.
 
