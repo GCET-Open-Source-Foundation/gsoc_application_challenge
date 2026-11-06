@@ -11,7 +11,7 @@ B. The record has a human-readable part and a machine-checkable part.
 C. You must read the rules that define both parts before submitting anything.
 
 ROUTING CLUE
-
+##
 The next document is not necessarily the next numbered file. Before deciding which instruction wins when documents appear to conflict, find the repository-wide rule in `2.txt`.
 
 For now, note this token: ENTRY = PLATINUM or GOLD.
