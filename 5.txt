@@ -5,7 +5,7 @@ The application form asks for both:
 - `email_sha256`: the digest you calculated in `4.txt`
 
 The organizer's validation is:
-
+changed changed
 canonical_email = canonicalize(email)  // as defined in 3.txt
 expected_digest = SHA256(UTF8(canonical_email))
 submitted_digest = lowercase(trim(email_sha256))
