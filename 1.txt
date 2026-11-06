@@ -1,6 +1,6 @@
 DOCUMENT 1 - ENTRY GATE
 
-wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+ello
 
  Program application procedure.
 
