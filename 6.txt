@@ -12,9 +12,7 @@ You are ready to submit when all statements below are true:
 - If I submit an LLM-assisted response, my Areas of interest response begins with `PLATINUM-VERIFIED`.
 - I will enter the same email address in the form and include its digest in the **Email SHA-256 digest** field.
 - I completed the required Full name, Email address, GitHub URL, Areas of interest, Programming languages, Why do you want to join? Keep it short., Weekly availability, and Repository completion confirmation fields.
-- I completed the Previous open-source experience and Previous contributions / projects fields where applicable.
-- I answered the application questions honestly.
-
+mkj
 FINAL ROUTE
 
 Open `submission.md` in the repository root. It contains the official application form link and the exact field names.
